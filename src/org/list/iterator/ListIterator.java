@@ -22,6 +22,7 @@ public class ListIterator {
 		// for-each loop creates Internal Iterator here.
 		for (String s : names) {
 			System.out.println(s);
+			System.out.println("p");
 		}
 
 	}
