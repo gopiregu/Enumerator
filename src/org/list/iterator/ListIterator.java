@@ -23,6 +23,8 @@ public class ListIterator {
 		for (String s : names) {
 			System.out.println(s);
 			System.out.println("p");
+			System.out.println(s);
+			System.out.println("p");
 		}
 
 	}
